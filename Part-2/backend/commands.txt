@@ -1,0 +1,9 @@
+python -m django --version
+django-admin startproject core  .
+python manage.py startapp nomad-api
+
+
+
+Virtual Env:
+python3 -m  venv env
+source env/bin/activate
