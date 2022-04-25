@@ -1,7 +1,8 @@
 
 '''
-Customer
-Vendor
+Models:
+   Customer
+   Vendor
 '''
 from django.test import TestCase
 

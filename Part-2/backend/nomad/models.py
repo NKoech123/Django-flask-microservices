@@ -10,6 +10,7 @@ from django.db import models
 class Vendor(models.Model):
     pass
 
+
 class Customer(models.Model):
     pass
 
