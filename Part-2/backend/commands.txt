@@ -7,3 +7,8 @@ python manage.py startapp nomad-api
 Virtual Env:
 python3 -m  venv env
 source env/bin/activate
+
+Quick git:
+git add .
+git commit -m "sth done"
+git push
