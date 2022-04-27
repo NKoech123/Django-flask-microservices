@@ -1,0 +1,5 @@
+Recommended VS Code extensions:
+1. Material icon theme
+2. Path Intellisense
+3. Prettier- Code formatter
+4. ES Lint - code quality support
